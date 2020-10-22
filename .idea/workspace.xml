@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44892477-92af-4c24-a056-caa3776e4a81" name="Default Changelist" comment="New test project bs5">
+    <list default="true" id="44892477-92af-4c24-a056-caa3776e4a81" name="Default Changelist" comment="New test project bs5sds">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603365670781</updated>
-      <workItem from="1603365674273" duration="464000" />
+      <workItem from="1603365674273" duration="769000" />
     </task>
     <task id="LOCAL-00001" summary="New test project bs5">
       <created>1603365992813</created>
@@ -49,7 +49,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603365992813</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New test project bs5">
+      <created>1603366149477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603366149477</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New test project bs5sds">
+      <created>1603366238891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603366238891</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,13 +71,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New test project bs5" />
-    <option name="LAST_COMMIT_MESSAGE" value="New test project bs5" />
+    <MESSAGE value="New test project bs5sds" />
+    <option name="LAST_COMMIT_MESSAGE" value="New test project bs5sds" />
   </component>
   <component name="WindowStateProjectService">
     <state x="306" y="63" key="SettingsEditor" timestamp="1603366047936">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="306" y="63" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1603366047936" />
+    <state x="458" y="128" key="Vcs.Push.Dialog.v2" timestamp="1603366243406">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="458" y="128" key="Vcs.Push.Dialog.v2/0.0.1920.1044@0.0.1920.1044" timestamp="1603366243406" />
     <state x="721" y="407" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603366112645">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>

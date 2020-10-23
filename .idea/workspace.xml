@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:test-vad" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="44892477-92af-4c24-a056-caa3776e4a81" name="Default Changelist" comment="New test project bs5sds">
+    <list default="true" id="44892477-92af-4c24-a056-caa3776e4a81" name="Default Changelist" comment="New test project bs5sds 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603365670781</updated>
       <workItem from="1603365674273" duration="769000" />
+      <workItem from="1603457688839" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="New test project bs5">
       <created>1603365992813</created>
@@ -69,12 +89,31 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New test project bs5" />
     <MESSAGE value="New test project bs5sds" />
     <option name="LAST_COMMIT_MESSAGE" value="New test project bs5sds" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="191" y="84" key="MergeDialog" timestamp="1603366887373">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="191" y="84" key="MergeDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1603366887373" />
+    <state x="498" y="216" key="MultipleFileMergeDialog" timestamp="1603366887380">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="498" y="216" key="MultipleFileMergeDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1603366887380" />
     <state x="306" y="63" key="SettingsEditor" timestamp="1603366047936">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
